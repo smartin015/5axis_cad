@@ -4,11 +4,15 @@ This is a set of CADQuery based operations for turning operations on the PocketN
 
 See `examples/` for example notebooks.
 
+![lab image](docs/lab_demo.png)
+
+![simulation image](docs/sim_demo.png)
+
 # DANGER DANGER DANGER
 
 This library contains very unproven methods for controlling machinery that use sharp spinning blades to cut metal and other materials.
 
-If you decide to use this library, you use it at your own risk.
+**If you decide to use this library, you use it at your own risk.**
 
 ## Safety
 
