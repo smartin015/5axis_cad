@@ -1,0 +1,4 @@
+examples/*.stl
+examples/*.nc
+.ipynb_checkpoints/
+__pycache__/
