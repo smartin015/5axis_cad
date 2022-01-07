@@ -4,9 +4,9 @@ This is a set of CADQuery based operations for turning operations on the PocketN
 
 See `examples/` for example notebooks.
 
-![lab image](docs/lab_demo.png)
+![lab image](https://github.com/smartin015/5axis_cad/raw/main/docs/lab_demo.png)
 
-![simulation image](docs/sim_demo.png)
+![simulation image](https://github.com/smartin015/5axis_cad/raw/main/docs/sim_demo.png)
 
 # DANGER DANGER DANGER
 
